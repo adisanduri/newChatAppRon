@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.hm2_chat_ron.app-mergeDebugResources-69:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/adi.s/.gradle/caches/transforms-3/295ee13a5897a4dad10d610b9940b433/transformed/appcompat-1.4.1/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

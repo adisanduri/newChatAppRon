@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "636598460140",
+    "project_id": "hw2-chat-ron",
+    "storage_bucket": "hw2-chat-ron.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636598460140:android:082cf9da6a772a4b330fc9",
+        "android_client_info": {
+          "package_name": "com.example.hm2_chat_ron"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636598460140-2538qr6ngmqddmq92q845tfqmf12sgge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzFUnVOUIBTm2dCEL0jGnSVQ5QE-vwQgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636598460140-2538qr6ngmqddmq92q845tfqmf12sgge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

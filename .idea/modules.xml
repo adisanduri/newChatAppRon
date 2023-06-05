@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HM2_chat_ron.iml" filepath="$PROJECT_DIR$/.idea/modules/HM2_chat_ron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/HM2_chat_ron.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/HM2_chat_ron.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/HM2_chat_ron.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/HM2_chat_ron.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/HM2_chat_ron.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/HM2_chat_ron.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/HM2_chat_ron.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/HM2_chat_ron.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

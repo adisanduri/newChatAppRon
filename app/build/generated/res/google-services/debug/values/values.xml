@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">636598460140-2538qr6ngmqddmq92q845tfqmf12sgge.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">636598460140</string>
+    <string name="google_api_key" translatable="false">AIzaSyCzFUnVOUIBTm2dCEL0jGnSVQ5QE-vwQgM</string>
+    <string name="google_app_id" translatable="false">1:636598460140:android:082cf9da6a772a4b330fc9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCzFUnVOUIBTm2dCEL0jGnSVQ5QE-vwQgM</string>
+    <string name="google_storage_bucket" translatable="false">hw2-chat-ron.appspot.com</string>
+    <string name="project_id" translatable="false">hw2-chat-ron</string>
+</resources>
